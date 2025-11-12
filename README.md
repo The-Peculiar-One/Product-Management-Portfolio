@@ -3,8 +3,8 @@ Professional portfolio highlighting Product Management projects, user flows, and
 Hi! I’m Peculiar Masade, a Banking & Finance graduate exploring Product Management. This portfolio showcases projects demonstrating my skills in user flows, structured problem-solving, and project planning. 
 --- 
 ## Projects 
-### Menstrual Tracking App - Designed a detailed user flow demonstrating user journey mapping and feature prioritization. - Skills highlighted: User journey mapping, feature prioritization, UX thinking. - [View User Flow](user-flow.pdf) 
-### Ride-Hailing App - Created a comprehensive booking journey user flow for a ride-hailing app assessment. - Skills highlighted: Task flows, user interaction mapping, project planning. - [View User Flow](Ride-Hailing-App/user-flow.pdf) 
+### Menstrual Tracking App - Designed a detailed user flow demonstrating user journey mapping and feature prioritization. - Skills highlighted: User journey mapping, feature prioritization, UX thinking. - [View User Flow](User%20Flow-Onboarding-Returning-User-Login.pdf) 
+### Ride-Hailing App - Created a comprehensive booking journey user flow for a ride-hailing app assessment. - Skills highlighted: Task flows, user interaction mapping, project planning. - [View User Flow](/User%20Flow-Booking%20a%20Ride%20on%20MyRide%20App.pdf) 
 ### Dream Product Assessment - Completed a product assessment exercise demonstrating structured writing and product thinking. - Skills highlighted: Problem framing, structured documentation, analytical thinking. - [View Sample](Dream-Product-Assessment/redacted-writing-sample.pdf)  
 --- 
 ## About Me 
