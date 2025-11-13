@@ -20,5 +20,6 @@ Hi! I’m Peculiar Masade, a Banking & Finance graduate exploring Product Manage
 ## About Me 
 I’m passionate about building solutions that create value for users and organizations. My background in Banking & Finance gives me analytical and problem-solving skills, while my Product Management training and projects have helped me develop user-centered thinking, planning, and execution skills. I’m eager to contribute, learn, and deliver meaningful results in dynamic environments.
 --- 
-## Contact - LinkedIn: www.linkedin.com/in/peculiar-masade-508415339 
+## Contact 
+- LinkedIn: www.linkedin.com/in/peculiar-masade-508415339 
 - GitHub: https://github.com/The-Peculiar-One
