@@ -1,5 +1,6 @@
 # Product Management Portfolio
 Professional portfolio highlighting Product Management projects, user flows, and structured product thinking exercises.
+---
 Hi! I’m Peculiar Masade, a Banking & Finance graduate exploring Product Management. This portfolio showcases projects demonstrating my skills in user flows, structured problem-solving, and project planning. 
 --- 
 ## Projects 
