@@ -18,7 +18,8 @@ Hi! I’m Peculiar Masade, a Banking & Finance graduate exploring Product Manage
 - [View Sample](My%20Dream%20Product,%20No%20Matter%20How%20Wild.pdf)  
 --- 
 ## About Me 
-I’m passionate about building solutions that create value for users and organizations. My background in Banking & Finance gives me analytical and problem-solving skills, while my Product Management training and projects have helped me develop user-centered thinking, planning, and execution skills. I’m eager to contribute, learn, and deliver meaningful results in dynamic environments.
+I’m passionate about building solutions that create real value for users and organizations. My background in Banking & Finance gives me analytical and problem-solving skills, while my Product Management training and projects have strengthened my user-centered thinking, planning, and execution abilities.
+Curiousity, adaptability, and creative thinking drive how I approach challenges, whether analyzing complex problems, collaborating with teams, or delivering solutions that make an impact from day one.
 --- 
 ## Contact 
 - LinkedIn: www.linkedin.com/in/peculiar-masade-508415339 
